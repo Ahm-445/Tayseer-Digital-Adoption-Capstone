@@ -111,4 +111,4 @@ The dashboard has two views:
 ## 🔗 Links
 
 - **Tableau dashboard:** https://public.tableau.com/views/NATIONALDIGITALADOPTION/TayseerDigitalAdoption
-- **SDAIA GitHub:** _add the SDAIA GitHub link from the course here_
+- **SDAIA GitHub:** https://github.com/SDAIAAcademy9
